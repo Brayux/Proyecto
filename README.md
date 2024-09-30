@@ -107,12 +107,13 @@ pip show colorama
 import colorama
 from colorama import Fore, back , style
 ```` 
+# Explicación funciones
 
 
 # Afrontar retos
 Interfaz: Era de nuestro agrado jugar con una interfaz gráfica, donde el usuario tuviera una mejor experiencia
 
-[![sopa-1.jpg](https://i.postimg.cc/bvJ8q4JS/sopa-1.jpg)](https://postimg.cc/RWj2Rswv)
+[![sopa-11.png](https://i.postimg.cc/sf0WyRg7/sopa-11.png)](https://postimg.cc/3WmNCVpx)
 
 sin embargo, nos afrontamos a diferentes problemas al usar la biblioteca tkinter como por ejemplo:
 
@@ -124,7 +125,7 @@ sin embargo, nos afrontamos a diferentes problemas al usar la biblioteca tkinter
 
 • Descartar varias funciones del codigo original
 
-[![sopa-11.jpg](https://i.postimg.cc/CxRmYN0L/sopa-11.jpg)](https://postimg.cc/TKXrJnhZ)
+[![sopa-1.png](https://i.postimg.cc/hvwQ0V5p/sopa-1.png)](https://postimg.cc/wRXBqRHm)
 
 # Solución :)
 • Jugar desde la consola lo mas realista posible
