@@ -437,8 +437,6 @@ sin embargo, nos afrontamos a diferentes problemas al usar la biblioteca tkinter
 
 • Descartar varias funciones del codigo original
 
-[![sopa-1.png](https://i.postimg.cc/hvwQ0V5p/sopa-1.png)](https://postimg.cc/wRXBqRHm)
-
 # Solución :)
 • Jugar desde la consola lo mas realista posible
 
