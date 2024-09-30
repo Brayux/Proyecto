@@ -1,4 +1,4 @@
-# SOPA DE LETRAS PROGREENING
+# ¿Estas listo para ser parte del proyecto ProGreening?
 
 | Nombre                       | Identificación |      Grupo      |      Carrera        |
 |------------------------------|----------------|-----------------|---------------------|
@@ -14,7 +14,7 @@
 
  ## Proyecto Programacion de computadores:
 ## Introducción
-
+[![Presentacion-Pro-Greening.png](https://i.postimg.cc/6pXfs0yZ/Presentacion-Pro-Greening.png)](https://postimg.cc/0bVwD7G5)
 En este proyecto final, el equipo ProGreening ha desarrollado una sopa de letras en Python, utilizando un código original y creativo. La sopa de letras es un juego clásico que consiste en encontrar palabras ocultas en una cuadrícula de letras. Nuestro objetivo era crear una versión digital de este juego, utilizando las habilidades de programación adquiridas en esta materia abordada por el docente Felipe Gonzales.
 
 ## Descripción del Proyecto
