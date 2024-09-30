@@ -110,7 +110,7 @@ from colorama import Fore, back , style
 
 
 # Afrontar retos
-Interfaz: Era de nuestro agrado jugar con una interfaz gráfica, donde el usuruario tuviera una mejor experiencia, sin embargo, nos afrontamos a diferentes problemas al usar la biblioteca tkinter como por ejemplo:
+Interfaz: Era de nuestro agrado jugar con una interfaz gráfica, donde el usuario tuviera una mejor experiencia, sin embargo, nos afrontamos a diferentes problemas al usar la biblioteca tkinter como por ejemplo:
 
 • Planteamiento de un ``nuevo´´ codigo
 
@@ -122,9 +122,16 @@ Interfaz: Era de nuestro agrado jugar con una interfaz gráfica, donde el usurua
 
 # Solución :)
 • Jugar desde la consola lo mas realista posible
+
 • Proponer el estilo del juego Batalla Naval 
 
 ## Conclusión
 
-En conclusión, la sopa de letras en Python es un juego divertido y desafiante que demuestra nuestras habilidades de programación. Sin duda alguna, fue un proceso retador, el cual nos tomo bastante tiempo. Creemos que es importante hacer una previa planeación para así realizar un buen proyecto, el cual no llegue a tomar demasiado tiempo. Sin embargo, pese a todo estamos orgullosos de nuestro trabajo y esperamos que disfruten jugando con nuestra sopa de letras.
+• En conclusión, la sopa de letras en Python es un juego divertido y desafiante que demuestra nuestras habilidades de programación.
+
+• Sin duda alguna, fue un proceso retador, el cual nos tomo bastante tiempo. 
+
+•Creemos que es importante hacer una previa planeación para así realizar un buen proyecto, el cual no llegue a tomar demasiado tiempo. 
+
+• Pese a todo estamos orgullosos de nuestro trabajo y esperamos que disfruten jugando con nuestra sopa de letras.
 
