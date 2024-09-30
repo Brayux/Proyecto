@@ -87,9 +87,30 @@ flowchart TD;
 
 ````
 
-## Instalar pip tkinter
+## Instalar Biblioteca colorama
+• Instalar python
+
+• Abrir VS code
+
+• Abrir terminal  VS code
+
+• Para instalar la biclioteca correctamente, debes poner el siguiente codigo en el terminal
+````python
+pip install colorama
+````
+• Verificar instalación
+````python
+pip show colorama
+````
+• Usar colorama
+````python
+import colorama
+from colorama import Fore, back , style
+```` 
 
 
+# Afrontar retos
+• Interfaz: Era de nuestro agrado jugar con una interfaz gráfica, donde el usuruario tuviera una mejor experiencia
 
 
 ## Conclusión
