@@ -110,8 +110,19 @@ from colorama import Fore, back , style
 
 
 # Afrontar retos
-• Interfaz: Era de nuestro agrado jugar con una interfaz gráfica, donde el usuruario tuviera una mejor experiencia
+Interfaz: Era de nuestro agrado jugar con una interfaz gráfica, donde el usuruario tuviera una mejor experiencia, sin embargo, nos afrontamos a diferentes problemas al usar la biblioteca tkinter como por ejemplo:
 
+• Planteamiento de un ``nuevo´´ codigo
+
+• Tiempo
+
+• Falsas expectativas
+
+• Descartar varias funciones del codigo original
+
+# Solución :)
+• Jugar desde la consola lo mas realista posible
+• Proponer el estilo del juego Batalla Naval 
 
 ## Conclusión
 
