@@ -430,6 +430,8 @@ sin embargo, nos afrontamos a diferentes problemas al usar la biblioteca tkinter
 
 • Proponer el estilo del juego Batalla Naval 
 
+# VAMOS A JUGAR!!
+
 ## Conclusión
 
 • En conclusión, la sopa de letras en Python es un juego divertido y desafiante que demuestra nuestras habilidades de programación.
