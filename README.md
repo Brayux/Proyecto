@@ -89,13 +89,13 @@ flowchart TD;
     E[Digite un número de filas con las que desea jugar]
     D--Facil-->F;F[10X10
     Horientación: HV
-    XXX palabras]
+    5 palabras]
     D--Medioo-->G;G[15X15
     Horientación: H,V,D
-    XXX palabras]
+    10 palabras]
     D--Dificil-->H;H[30X30
     H,V,D
-    XXX palabras]
+    15 palabras]
     F-->FF;G-->FF;H-->FF
     FF[Generar sopa de letras segun nivel y modalidad]
     FF--Encontraste una palabra-->FFF;FFF[Escribe las coordenadas de la palabra encontrada junto con la palabra]
