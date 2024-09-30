@@ -6,6 +6,7 @@
 | Daniel Santiago Barrera Rojas| 1031647812     |   ProGreening   | Ingeniería Agrícola |
 | Pablo Mendoza Malagón        | 1072645448     |                 |                     |
 
+# No olvides sonreir!!!
 [![Imagen-de-Whats-App-2024-04-18-a-las-13-37-14-41369a78.jpg](https://i.postimg.cc/MKtYzt5J/Imagen-de-Whats-App-2024-04-18-a-las-13-37-14-41369a78.jpg)](https://postimg.cc/CzB8NG9c)
 <table cellspacing="1" bgcolor="" align="center">
   <tr bgcolor="#252582">
