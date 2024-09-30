@@ -110,7 +110,11 @@ from colorama import Fore, back , style
 
 
 # Afrontar retos
-Interfaz: Era de nuestro agrado jugar con una interfaz gráfica, donde el usuario tuviera una mejor experiencia, sin embargo, nos afrontamos a diferentes problemas al usar la biblioteca tkinter como por ejemplo:
+Interfaz: Era de nuestro agrado jugar con una interfaz gráfica, donde el usuario tuviera una mejor experiencia
+
+[![sopa-1.jpg](https://i.postimg.cc/bvJ8q4JS/sopa-1.jpg)](https://postimg.cc/RWj2Rswv)
+
+sin embargo, nos afrontamos a diferentes problemas al usar la biblioteca tkinter como por ejemplo:
 
 • Planteamiento de un ``nuevo´´ codigo
 
@@ -119,6 +123,8 @@ Interfaz: Era de nuestro agrado jugar con una interfaz gráfica, donde el usuari
 • Falsas expectativas
 
 • Descartar varias funciones del codigo original
+
+[![sopa-11.jpg](https://i.postimg.cc/CxRmYN0L/sopa-11.jpg)](https://postimg.cc/TKXrJnhZ)
 
 # Solución :)
 • Jugar desde la consola lo mas realista posible
