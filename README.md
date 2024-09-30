@@ -411,7 +411,21 @@ Estas funciones hacen que el juego sea dinámico, interactivo y mantenga un sist
 # Afrontar retos
 Interfaz: Era de nuestro agrado jugar con una interfaz gráfica, donde el usuario tuviera una mejor experiencia
 
-[![sopa-11.jpg](https://i.postimg.cc/CxRmYN0L/sopa-11.jpg)](https://postimg.cc/TKXrJnhZ)
+Introducción interfaz con tk inter:
+
+[![Intro-tkinter.jpg](https://i.postimg.cc/Pqs51RRN/Intro-tkinter.jpg)](https://postimg.cc/RWdmBX9z)
+
+Pestaña configuracion con tk inter:
+
+[![configuracion-tkinter.jpg](https://i.postimg.cc/W3SpLbbJ/configuracion-tkinter.jpg)](https://postimg.cc/8JJgLGv1)
+
+Pestaña dificultades con tk inter:
+
+[![seleccion-dificultar.jpg](https://i.postimg.cc/8c01cKvp/seleccion-dificultar.jpg)](https://postimg.cc/Lgjd0Vvw)
+
+Pestaña sopa de letras con tk inter:
+
+[![Sopa-de-letras-con-botones.jpg](https://i.postimg.cc/Qxv8rzsS/Sopa-de-letras-con-botones.jpg)](https://postimg.cc/6yLJrY8G)
 
 sin embargo, nos afrontamos a diferentes problemas al usar la biblioteca tkinter como por ejemplo:
 
