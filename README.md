@@ -411,7 +411,7 @@ Estas funciones hacen que el juego sea dinámico, interactivo y mantenga un sist
 # Afrontar retos
 Interfaz: Era de nuestro agrado jugar con una interfaz gráfica, donde el usuario tuviera una mejor experiencia
 
-[![sopa-11.png](https://i.postimg.cc/sf0WyRg7/sopa-11.png)](https://postimg.cc/3WmNCVpx)
+[![sopa-11.jpg](https://i.postimg.cc/CxRmYN0L/sopa-11.jpg)](https://postimg.cc/TKXrJnhZ)
 
 sin embargo, nos afrontamos a diferentes problemas al usar la biblioteca tkinter como por ejemplo:
 
