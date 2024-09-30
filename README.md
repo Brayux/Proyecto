@@ -115,5 +115,5 @@ from colorama import Fore, back , style
 
 ## Conclusión
 
-En conclusión, el equipo ProGreening ha desarrollado un proyecto final de programación de computadores que cumple con los objetivos planteados. La sopa de letras en Python es un juego divertido y desafiante que demuestra nuestras habilidades de programación. Estamos orgullosos de nuestro trabajo y esperamos que disfruten jugando con nuestra sopa de letras.
+En conclusión, la sopa de letras en Python es un juego divertido y desafiante que demuestra nuestras habilidades de programación. Sin duda alguna, fue un proceso retador, el cual nos tomo bastante tiempo. Creemos que es importante hacer una previa planeación para así realizar un buen proyecto, el cual no llegue a tomar demasiado tiempo. Sin embargo, pese a todo estamos orgullosos de nuestro trabajo y esperamos que disfruten jugando con nuestra sopa de letras.
 
